@@ -1,0 +1,256 @@
+body{
+	background-image: url('../images/bg.png');
+}
+.jumbotron
+{
+background-image:url('../images/bg11.png');
+/*background-attachment:fixed;*/
+min-height:100px;
+margin-bottom:0px;
+float:left;
+
+}
+/*
+.alt1
+{
+background:gray;
+min-height:500px;
+width:60%;
+float:left;
+}
+.alt3
+{
+background:orange;
+min-height:500px;
+width:40%;
+float:right;
+}
+
+.alt4
+{
+background:yellow;
+min-height:220px;
+width:60%;
+float:left;
+}
+
+.alt5
+{
+background:RED;
+min-height:200px;
+width:40%;
+float:right;
+}
+
+
+.alt2
+{
+background:#333;
+min-height:150px;
+color:#fff;
+text-align:center;
+}
+
+.padding
+{
+padding-top:20px;
+padding-bottom:20px;
+}
+*/
+#welcome {
+	height: 120%;
+	width: 100%;
+	background-color:green;
+	position:absolute;
+}
+#welcome h2 {
+	text-align:center;
+	color:white;
+	margin-top:40%;
+}
+
+#wrapper {
+	background-color: #CCC;
+	width: 100%;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	max-width: 1400px;
+}
+/*#top {
+	background-color:gray;
+	height: 100px;
+	width: 100%;
+	float: left;
+}*/
+
+
+#map {
+
+	background-image:url("../images/sea_bg.jpg");
+	height: auto;
+	width: 50%;
+	float:left;
+	min-width: 300px;
+	position:relative;
+	
+}
+#game {
+	background-color:  transparent;
+	height: auto;
+	width: 40%;
+	float: left;
+	min-width: 300px;
+}
+#info {
+	background-color: transparent;
+	height: 300px;
+	width: 100%;
+	float: left;
+	min-width: 300px;
+	background-color: white;
+}
+#google_map {
+	background-color:  transparent;
+	float: left;
+	height: 50%;
+	width: 50%;
+	min-width: 300px;
+	
+}
+#feedback {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-color: transparent;
+}
+#ireland_map {
+	float: left; 
+/*	background-color: black; */
+	width: 60%;
+	height: auto;
+	margin-left:20%;
+	margin-right: 20%; 
+	position: relative;
+}
+
+/*----------------- GIF SECTION ---------------*/
+/* -- 1830 - 1900 -- */
+#civil_war {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:35%;
+	top: 40%;
+/*	left:350px;
+	top:220px;
+	float:left; */
+}
+#famine {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:45%;
+	top: 20%;
+}
+#fenian {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:60%;
+	top: 43%;
+}
+/* -- 1900 - 1945 -- */
+#img1 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:45%;
+	top:40%;
+}
+#img2 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:35%;
+	top:20%;
+}
+#img3 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:35%;
+	top:70%;
+}
+/* -- 1945 - 1980 -- */
+#img4 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:55%;
+	top:30%;
+}
+#img5 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:15%;
+	top:80%;
+}
+#img6 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:15%;
+	top:60%;
+}
+/* -- 1980 - 2016 -- */
+#img7 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:15%;
+	top:60%;
+}
+#img8 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:15%;
+	top:60%;
+}
+#img9 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:15%;
+	top:60%;
+}
+/*----------------- END OF GIF SECTION ---------------*/
+#buttons{
+	background-color:blue;
+	height:30px;
+	margin-top: 79%;
+	text-align:center;
+	background-image:url("../images/sea_bg.jpg");
+}
+@media screen and (max-width: 800px) {
+	#map  {
+		width:100%;
+		height: auto;
+	}
+	#game {
+		display: none;
+		width: 100%;
+		height: auto;
+	}
+	#info  {
+		width: 100%;
+		height: auto;
+	}
+	#google_map {
+		width: 100%;
+		height: 400px;
+	}
+}

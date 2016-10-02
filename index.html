@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ireland Rising</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		
+		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="js/load.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+		<script>
+		//$(document).ready(function(){
+		//        $("#welcome").delay(700).fadeOut();
+		//});
+		$(document).ready(function(){
+		    $('#imgbox2').hide();
+		    $('#imgbox3').hide();
+		    $('#imgbox4').hide();
+		    $('button[name="change"]').click(function(e){
+		        var btnClick = $(this).val();
+		        if(btnClick === 'one'){
+		        		$('#imgbox').show();
+		            $('#imgbox2').hide();
+		    				$('#imgbox3').hide();
+		    				$('#imgbox4').hide();
+		        }
+		        else if(btnClick === 'two'){
+		        		$('#imgbox').hide();
+		            $('#imgbox2').show();
+		    				$('#imgbox3').hide();
+		    				$('#imgbox4').hide();
+		        }
+		        else if(btnClick === 'three'){
+		        		$('#imgbox').hide();
+		            $('#imgbox2').hide();
+		    				$('#imgbox3').show();
+		    				$('#imgbox4').hide();
+		        }
+		        else{
+		            $('#imgbox').hide();
+		            $('#imgbox2').hide();
+		    				$('#imgbox3').hide(); 
+		    				$('#imgbox4').show();
+		        } 
+		    });
+		});
+		$(function() {
+	        $("#civil_war").hover(
+	            function() {
+	                $(this).attr("src", "images/Civil_War_gif.gif");
+	            },
+	            function() {
+	                $(this).attr("src", "images/CW_Still.png");
+	            }                         
+	        );                  
+	    });
+						    
+	    $(function() {
+	        $("#famine").hover(
+	            function() {
+	                $(this).attr("src", "images/Famine_Gif.gif");
+	            },
+	            function() {
+	                $(this).attr("src", "images/Famine_Still.png");
+	            }                         
+	        );                  
+	    });
+		
+		  $(function() {
+	        $("#fenian").hover(
+	            function() {
+	                $(this).attr("src", "images/Fenian_Uprising.gif");
+	            },
+	            function() {
+	                $(this).attr("src", "images/Fenian_uprising_still.jpg");
+	            }                         
+	        );                  
+	    });
+			</script>
+		 <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+     
+      
+    </style> 
+	</head>
+	<body onload="initialize()">
+<div id="wrapper">
+	<div id="wrapper2">
+				<div class="jumbotron">
+					<div class="container">
+					<img src="images/name.png" alt="logo"/>
+					</div>
+				</div>
+				<div class="alt1 padding" id="map"> 
+					<img src="images/ireland_map2.png" alt="map of ireland" id="ireland_map"/>
+					
+					<!-- GIFS FOR 1830 - 1900 GOES HERE -->
+					<div id="imgbox">
+					<img src="images/CW_Still.png" id="civil_war" onclick="loadDoc1()"/>
+					<img src="images/Famine_Still.png" id="famine" onclick="loadDoc2()"/>
+					<img src="images/Fenian_uprising_still.jpg" id="fenian" onclick="loadDoc3()"/>
+					</div>
+					
+					<!-- GIFS FOR 1900 - 1945 GOES HERE -->
+					<div id="imgbox2">
+					<img src="images/img1.jpg" id="img1" onclick="loadDoc1()"/>
+					<img src="images/img2.jpg" id="img2" onclick="loadDoc2()"/>
+					<img src="images/img3.jpg" id="img3" onclick="loadDoc3()"/>
+					</div>
+					
+					<!-- GIFS FOR 1945 - 1980 GOES HERE -->
+					<div id="imgbox3">
+					<img src="images/img1.jpg" id="img4" onclick="loadDoc1()"/>
+					<img src="images/img2.jpg" id="img5" onclick="loadDoc2()"/>
+					<img src="images/img3.jpg" id="img6" onclick="loadDoc3()"/>
+					</div>
+					
+					<!-- GIFS FOR 1980 - 2016 GOES HERE -->
+					<div id="imgbox4">
+					<img src="images/img1.jpg" id="img7" onclick="loadDoc1()"/>
+					<img src="images/img2.jpg" id="img8" onclick="loadDoc2()"/>
+					<img src="images/img3.jpg" id="img9" onclick="loadDoc3()"/>
+					</div>
+					
+					<!-- BUTTONS WHICH CHANGE PERIODS -->
+					<div id="buttons">
+					<button type="button" id="first" name="change" value="one" onclick="">1830 - 1900</button>&#160;&#160;
+					<button type="button" id="second" name="change" value="two" onclick="">1900 - 1945</button>&#160;&#160;
+					<button type="button" id="third" name="change" value="three" onclick="">1945 - 1980</button>&#160;&#160;
+					<button type="button" id="fourth" name="change" value="four" onclick="">1980 - 2016</button>
+					</div>
+				</div>
+				<div class="alt5 padding" id="google_map">
+				<p> google API</p>
+				</div>
+				<div  id="info">
+				<h1>All information about event goes here...</h1>
+				</div>
+			</div>
+		</div>
+		
+	</body>
+</html>

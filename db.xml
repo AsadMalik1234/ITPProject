@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"?>
+
+<catalog>
+	<event id="e1">
+		<name>Event #1</name>
+		<year>1830 - 1900</year>
+		<information>
+			Info about first event goes here.
+		</information>
+	</event>
+	<event id="e2">
+		<name>Event #2</name>
+		<year>1900 - 1945</year>
+		<information>
+			Info about second event goes here.
+		</information>
+	</event>
+	<event id="e3">
+		<name>Event #3</name>
+		<year>1945 - 1980</year>
+		<information>
+			Info about third event goes here.
+		</information>
+	</event>
+	<event id="e4">
+		<name>Event #4</name>
+		<year>1980 - 2016</year>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+</catalog>

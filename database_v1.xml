@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"?>
+
+<catalog>
+	<event id="e1">
+		<name>GAA Formation</name>
+		<year>1st of November 1884</year>
+		<location>Tipperary</location>
+		<information>
+			The GAA, Gaelic Athletic Association was created in order to preserve and promote Irish games such as Gaelic football and hurling. 
+			The person instrumental in its genesis was Michael Cusack. On 1st November 1884 a meeting was held in Thurles, County Tipperary. 
+			Initially, members of other clubs and associations were banned from joining the GAA because they were to a great extent influenced by the British rules. 
+			Things have now changed for the better. Anyone of any religion can join the GAA. 
+	</information>
+	</event>
+	<event id="e2">
+		<name>Event #2</name>
+		<year>1830 - 1900</year>
+		<information>
+			Info about first event goes here.
+		</information>
+	</event>
+	<event id="e3">
+		<name>Event #3</name>
+		<year>1830 - 1900</year>
+		<information>
+			fsdiohsdiohsdfsdhsd09
+		</information>
+	</event>
+	<event id="e4">
+		<name>The Tithe Wars</name>
+		<year>1831 to 1836</year>
+		<information>
+			The Tithe was a payment to the church for its upkeep and support of the clergy. Everyone was obliged to make this payment regardless of their religious affiliation. Payment was about 10% of their agricultural produce. Both cash and goods were acceptable. Originally, the payments were used to support the Catholic churches. This changed after the Reformation in the 16th century when King Henry VIII established the Church of Ireland to be the state church. Around 1829, a campaign to resist payment was started which resulted in the government starting a program of forced payments and confiscations. What followed was a series of public gatherings of protest and disobedience. One notable incident took place in Carrickshock, County Kilkenny on 14 December 1831. A Chief Constable and twelve constables were killed having been ambushed by protesters. Eventually, in 1838 the parliament enacted a new method of collection.  This was brought about with the Tithe Commutation Act of Ireland. The payment was reduced by 25% and was incorporated into the rent. The Landlord in turn paid the government.
+		</information>
+	</event>
+	<event id="e5">
+		<name>Irish emigration</name>
+		<year>1600 to 1880</year>
+		<information>
+			Emigration was an option which was reluctantly chosen by the Irish.  The notion of leaving your family and country was strongly resisted but the reality was sometimes stark. Most people went to the USA, others chose the West Indies where they worked on plantations under the blistering sun.  Some went voluntarily, others were transported by Cromwell. The ports of Belfast, Derry, Larne, Newry, and Portrush were busy during this time, destination USA. Emigration has been with us ever since. There are millions of people worldwide who are of Irish descent. 
+		</information>
+	</event>
+	<event id="e6">
+		<name>Event #4</name>
+		<year>1980 - 2016</year>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+	<event id="e7">
+		<name>Event #4</name>
+		<year>1980 - 2016</year>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+	<event id="e8">
+		<name>Irish War of Independence</name>
+		<year>21st January 1919</year>
+		<information>
+			The Irish Republican Party, Sinn Féin declared independence from Britain on 19th January 1919. The IRA, Irish Republican Army waged a guerrilla war against the British security forces. The British government outlawed the Dáil Éireann and Sinn Féin in 1919. The IRA carried out a program of attacking British army patrols and the RIC, Royal Irish Constabulary. They also concentrated on harassing barracks. The British deployed the Black and Tans who were the RIC special reserve force. A truce was agreed to on 11th July 1921. This is the year in which the British parliament created Northern Ireland.
+		</information>
+	</event>
+	<event id="e9">
+		<name>The Troubles</name>
+		<year>August 1969</year>
+		<information>
+			The Troubles began in 1969. It was an undeclared war waged by sectarians and nationalists. Car bombings and shootings were the norm within the six counties but some attacks were carried out in the Republic and in Britain. Two notable individuals of prominence during this historic period were Ian Paisley and Gerry Adams. Eventually, it was brought to an end on Friday 22nd May 1998 with the signing of the Good Friday Agreement also known as the Belfast Agreement. Tensions and segregation still exist today albeit to a lesser degree.
+		</information>
+	</event>
+	<event id="e10">
+		<name>Event #4</name>
+		<year>1980 - 2016</year>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+	<event id="e11">
+		<name>Event #4</name>
+		<year>1980 - 2016</year>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+	<event id="e12">
+		<name>Omagh Bombing</name>
+		<year>15th August 1998</year>
+		<information>
+			On Saturday August 1998, a car bomb exploded in the quiet town of Omagh. The Real Irish Republican Army were responsible. They were opposed to the Good Friday Agreement and their intention was to continue the bombing campaign. The Real Irish Republican Army is a splinter group from the Provisional Irish Republican Army.
+			The various intelligence services had gathered information which allegedly could have been used to prevent the bombing. Telephone warnings had been received but proved to be faulty. The police ushered people closer to the car bomb with devastating effect. 31 people died and over 220 people were injured. Both the IRA’s ceasefire and the Good Friday Agreement succeeded.
+		</information>
+	</event>
+		<event id="e13">
+		<name>The Recession</name>
+		<year>2006 to present</year>
+		<information>
+			Between the mid-1990s and around 2008 the Irish economy had been buoyant, vibrant and the envy of its neighbours. Then in 2008 the Celtic Tiger came to an ignominious end. There had been a sense of enthusiasm and confidence in the current economic practices which earned the title "Celtic Tiger". As a result, many lost sight of caution and prudence. They party ended and the reality of austerity dawned. The road to recovery for the Irish people has been difficult, painful and fraught with controversy and recrimination.
+		</information>
+	</event>
+		<event id="e14">
+		<name>Event #4</name>
+		<year>1980 - 2016</year>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+		<event id="e15">
+		<name>Meow</name>
+		<year>1980 - 2016</year>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+		<event id="e16">
+		<name>Event #4</name>
+		<year>1980 - 2016</year>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+</catalog>
