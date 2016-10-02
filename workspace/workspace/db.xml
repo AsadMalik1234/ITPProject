@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"?>
+
+<catalog>
+	<event id="e1">
+		<name>GAA Formation</name>
+		<year>1st of November 1884</year>
+		<location>Tipperary</location>
+		<information>
+			The GAA, Gaelic Athletic Association was created in order to preserve and promote Irish games such as Gaelic football and hurling. 
+			The person instrumental in its genesis was Michael Cusack. On 1st November 1884 a meeting was held in Thurles, County Tipperary. 
+			Initially, members of other clubs and associations were banned from joining the GAA because they were to a great extent influenced by the British rules. 
+			Things have now changed for the better. Anyone of any religion can join the GAA. 
+	</information>
+	</event>
+	<event id="e2">
+		<name>The Great Famine</name>
+		<year>1845 to 1850</year>
+		<location>Ireland</location>
+		<information>
+			The Great Famine occurred between 1845 and 1850. It resulted in a huge loss of life and a huge exodus to mainly the USA. The Caribbean islands were a popular destination. A combination of factors conspired to give rise to the Great Famine. The population of Ireland had been around 8 million. The dependence on the potato as a staple food source was universal. The weather was conducive to blight in certain conditions such as dame and cold. The potato crop failed repeatedly thus removing the main source of food for the people. The choices faced were the work house or emigration. The majority went to the United States. Notable achievements of the Irish emmigrants were helping to build the rail roads and many police men were Irish. The Great Famine sent the Irish all over the globe where they contributed to the development of their adopted countries.
+		</information>
+	</event>
+	<event id="e3">
+		<name>Fenian rising</name>
+		<year>5th March 1867</year>
+		<location>Tallaght, Dublin</location>
+		<information>
+			The Fenians were led by James Stephens. He was a nationalist and activist in the Irish Republican Brotherhood. He spent time in Paris, New York and also Ireland organising and promoting a nationalist uprising against the British. The plan for the rising was to wage a guerrilla war on the British by deploying small groups of men. Their task was to disrupting rail and communication links. The deployment of the forces at Tallaght Hill was merely a distraction. The 10,000 strong Tallaght force did not stay long because of brutal weather conditions. They simply went home, hid their guns and waited for the next call to arms. Up to about 200 young men were arrested on their way home.
+The rising didn't materialise because of inadequate planning, a lack of leadership and also a lack of guns.
+		</information>
+	</event>
+	<event id="e4">
+		<name>The Tithe Wars</name>
+		<year>1831 to 1836</year>
+		<location>Carrickshock, County Kilkenny</location>
+		<information>
+			The Tithe was a payment to the church for its upkeep and support of the clergy. Everyone was obliged to make this payment regardless of their religious affiliation. Payment was about 10% of their agricultural produce. Both cash and goods were acceptable. Originally, the payments were used to support the Catholic churches. This changed after the Reformation in the 16th century when King Henry VIII established the Church of Ireland to be the state church. Around 1829, a campaign to resist payment was started which resulted in the government starting a program of forced payments and confiscations. What followed was a series of public gatherings of protest and disobedience. One notable incident took place in Carrickshock, County Kilkenny on 14 December 1831. A Chief Constable and twelve constables were killed having been ambushed by protesters. Eventually, in 1838 the parliament enacted a new method of collection.  This was brought about with the Tithe Commutation Act of Ireland. The payment was reduced by 25% and was incorporated into the rent. The Landlord in turn paid the government.
+		</information>
+	</event>
+	<event id="e5">
+		<name>Irish emigration</name>
+		<year>1600 to 1880</year>
+		<location>Ireland</location>
+		<information>
+			Emigration was an option which was reluctantly chosen by the Irish.  The notion of leaving your family and country was strongly resisted but the reality was sometimes stark. Most people went to the USA, others chose the West Indies where they worked on plantations under the blistering sun.  Some went voluntarily, others were transported by Cromwell. The ports of Belfast, Derry, Larne, Newry, and Portrush were busy during this time, destination USA. Emigration has been with us ever since. There are millions of people worldwide who are of Irish descent. 
+		</information>
+	</event>
+	<event id="e6">
+		<name>The First Dáil</name>
+		<year>21st January 1919</year>
+		<location>Leinster House, Kildare St, Dublin 2</location>
+		<information>
+			The first Dáil was formed on 21st January 1919. The second Dáil formed in 1921. The third Dáil, 1922 to 1923 was the first independent Irish Government which was recognised by the British. After the establishment of the Irish Free State, a new body was formed, the Oireachtas. It is composed of Dáil Éireann (House of Deputies) and Seanad Éireann (Senate). Dáil Éireann is the lower house.
+		</information>
+	</event>
+	<event id="e7">
+		<name>Irish Civil War</name>
+		<year>28th June 1922</year>
+		<location>Ireland</location>
+		<information>
+			The Irish Civil war, 1922 to 1923 was a result of the outcome of the Anglo-Irish Treaty. The main issue was the six counties. The IRA splintered into two factions, the pro-treaty led by Michael Collins and the anti-treaty led by Liam Lynch. In August 1923 an election was held. The winners were Cumman na nGaedheal. Another achievement was to establish an unarmed police force called the Garda Siochana. Later, two parties were formed. Fianna Fáil, on 23 March 1926 and Fine Gael, on 8 September 1933. Fianna Fail was the anti-treaty political party and Fine Gael was the pro-treaty political party.
+		</information>
+	</event>
+	<event id="e8">
+		<name>Easter Rising</name>
+		<year>24th April 1916</year>
+		<location>Dublin, Ireland</location>
+		<information>
+			Easter Monday 1916, the Rising. This date was chosen by the leadership because the British would not expect anything of significance to happen on this holy day. Most of their forces were on a low level of readiness or on holiday leave. The British had up to 400 troops on standby. The GPO, General Post Office was occupied by the rebels. The British raised most of Dublin to the ground which had a profound impact on the majority of the Irish population. An Irish contingent went to London and negotiated a partial withdrawal as the six counties still remain under British jurisdiction. A bitter disagreement concerning this negotiation resulted in the Irish Civil War, 28th June 1922 to 24th May 1923.
+		</information>
+	</event>
+	<event id="e9">
+		<name>Irish War of Independence</name>
+		<year>21st January 1919</year>
+		<location>type in location here</location>
+		<information>
+			The Irish Republican Party, Sinn Féin declared independence from Britain on 19th January 1919. The IRA, Irish Republican Army waged a guerrilla war against the British security forces. The British government outlawed the Dáil Éireann and Sinn Féin in 1919. The IRA carried out a program of attacking British army patrols and the RIC, Royal Irish Constabulary. They also concentrated on harassing barracks. The British deployed the Black and Tans who were the RIC special reserve force. A truce was agreed to on 11th July 1921. This is the year in which the British parliament created Northern Ireland.
+		</information>
+	</event>
+	<event id="e10">
+		<name>The Troubles</name>
+		<year>August 1969</year>
+		<location>type in location here</location>
+		<information>
+			The Troubles began in 1969. It was an undeclared war waged by sectarians and nationalists. Car bombings and shootings were the norm within the six counties but some attacks were carried out in the Republic and in Britain. Two notable individuals of prominence during this historic period were Ian Paisley and Gerry Adams. Eventually, it was brought to an end on Friday 22nd May 1998 with the signing of the Good Friday Agreement also known as the Belfast Agreement. Tensions and segregation still exist today albeit to a lesser degree.
+		</information>
+	</event>
+	<event id="e11">
+		<name>The Recess</name>
+		<year>1980 - 2016</year>
+		<location>type in location here</location>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+	<event id="e12">
+		<name>RTE</name>
+		<year>1980 - 2016</year>
+		<location>type in location here</location>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+	<event id="e13">
+		<name>Omagh Bombing</name>
+		<year>15th August 1998</year>
+		<location>type in location here</location>
+		<information>
+			On Saturday August 1998, a car bomb exploded in the quiet town of Omagh. The Real Irish Republican Army were responsible. They were opposed to the Good Friday Agreement and their intention was to continue the bombing campaign. The Real Irish Republican Army is a splinter group from the Provisional Irish Republican Army.
+			The various intelligence services had gathered information which allegedly could have been used to prevent the bombing. Telephone warnings had been received but proved to be faulty. The police ushered people closer to the car bomb with devastating effect. 31 people died and over 220 people were injured. Both the IRA’s ceasefire and the Good Friday Agreement succeeded.
+		</information>
+	</event>
+		<event id="e14">
+		<name>The Recession</name>
+		<year>2006 to present</year>
+		<location>type in location here</location>
+		<information>
+			Between the mid-1990s and around 2008 the Irish economy had been buoyant, vibrant and the envy of its neighbours. Then in 2008 the Celtic Tiger came to an ignominious end. There had been a sense of enthusiasm and confidence in the current economic practices which earned the title "Celtic Tiger". As a result, many lost sight of caution and prudence. They party ended and the reality of austerity dawned. The road to recovery for the Irish people has been difficult, painful and fraught with controversy and recrimination.
+		</information>
+	</event>
+		<event id="e15">
+		<name>Celtic Tiger</name>
+		<year>1995 to 2007</year>
+		<location>Republic of Ireland</location>
+		<information>
+			"Celtic Tiger" is a colloquial term which engenders prosperity. The economic growth was mainly supported by generous foreign investment and great confidence in continued growth. Many other factors also gave rise to the growth of the Celtic Tiger such as employer/trade union cooperation, women in the workforce, improved education, membership of the EEC (European Union), a low corporation tax and also an English speaking workforce. Then in 2007, the bubble burst. Debts could not be paid, people lost their jobs, and investment took flight. The country entered a period of austerity.
+		</information>
+	</event>
+		<event id="e16">
+		<name>Eurovision</name>
+		<year>1980 - 2016</year>
+		<location>type in location here</location>
+		<information>
+			Info about fourth event goes here.
+		</information>
+	</event>
+</catalog>

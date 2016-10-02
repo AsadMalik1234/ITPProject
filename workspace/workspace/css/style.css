@@ -1,0 +1,238 @@
+#html, body{
+max-width:100%;
+overflow-x:hidden;
+	
+}
+p {
+	padding-left:20px;
+	padding-right:20px;
+}
+.jumbotron
+{
+background-image:url('../images/b2.jpg');
+background-attachment:fixed;
+background-repeat: no-repeat;
+min-height:175px;
+margin-bottom:0px;
+min-width:100%;
+}
+.alt1
+{
+/*border-image-repeat:url('../images/border_V.png');*/
+/*background: transparent;*/
+height:700px;
+width:100%;
+float:left;
+position:relative;
+}
+.alt3
+{
+/*background:transparent;*/
+min-height:700px;
+width:100%;
+float:left;
+position:relative;
+}
+
+.alt4
+{
+/*background:transparent;*/
+min-height:200px;
+width:100%;
+float:left;
+}
+
+.alt5
+{
+/*background:transparent;*/
+min-height:500px;
+width:100%;
+float:right;
+}
+
+
+.alt2
+{
+background:#333;
+min-height:150px;
+color:#fff;
+text-align:center;
+}
+
+.padding
+{
+padding-top:20px;
+padding-bottom:20px;
+}
+
+.col-md-6{
+    height:100%;
+}
+
+.one{
+background:transparent;
+}
+#home{
+	
+	
+}
+.opp{
+	background-color:green;
+}
+/*#about{
+	border: 15px solid transparent;
+    padding: 15px;
+	border-image:url('../images/border_V.png')20 round;
+	border: 5px, solid, red;
+}
+*/
+#map1 {
+	
+	background: transparent;
+}
+
+	
+
+#ireland_map {
+	float: left; 
+/*	background-color: black; */
+	margin-top:-20px;
+	width: 80%;
+	height:106%;
+	margin-left:10%;
+	margin-right: 10%; 
+	position: relative;
+}
+/*----------------- GIF SECTION ---------------*/
+/* -- 1830 - 1900 -- */
+
+
+#GAA {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:45%;
+	top:75%;
+/*	left:350px;
+	top:220px;
+	float:left; */
+}
+#famine {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:35%;
+	top: 60%;
+}
+#tithe{
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:50%;
+	top:40%;
+}
+#fenian {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:65%;
+	top: 60%;
+}
+#CW {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:65%;
+	top: 50%;
+}
+#Troubles {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:55%;
+	top: 33%;
+}
+#Omagh {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:55%;
+	top: 30%;
+}
+#Rec {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:65%;
+	top: 55%;
+}
+/* -- 1900 - 1945 -- */
+#a1916 {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:65%;
+	top: 60%;
+}
+#FirstDail {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:50%;
+	top:50%;
+}
+#CT {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:45%;
+	top:50%;
+}
+#E {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:40%;
+	top:75%;
+}
+#R {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:35%;
+	top:70%;
+}
+#WIP {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:45%;
+	top:55%;
+}
+/* -- 1945 - 1980 -- */
+#RTE {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:60%;
+	top:45%;
+}
+
+#Emmigration {
+	width:13%;
+	height:10%;
+	position: absolute;
+	left:40%;
+	top:85%;
+}
+
+
+/*----------------- END OF GIF SECTION ---------------*/
+#buttons{
+	height:30px;
+	text-align:center;
+}
+/* ---------------- ON HOVER TOOLTIP ---------------- */
+/* Its works together with jQuery script */
+
+

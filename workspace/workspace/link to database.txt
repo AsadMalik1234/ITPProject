@@ -1,0 +1,17 @@
+
+<!-- link to database--->
+ https://finalitp-asadmalik111.c9users.io/phpmyadmin
+ 
+ 
+
+
+
+<!-- link to the website and database commands--->
+https://docs.c9.io/docs/setting-up-phpmyadmin
+
+<!--commands to open database--->
+
+mysql-ctl install
+phpmyadmin-ctl install
+mysql-ctl start
+
